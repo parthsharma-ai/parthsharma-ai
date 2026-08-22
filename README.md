@@ -1,6 +1,6 @@
 # Hi, I'm Parth Sharma 
 
-### AI System Engineer in Progress | GenAI • Agentic AI • Computer Vision 
+### AI System Engineer | GenAI • Agentic AI • Computer Vision 
 
  Information Science & Engineering Student
  Building AI-powered systems and solving real-world problems with Machine Learning and Generative AI.
@@ -62,22 +62,6 @@ Currently preparing for technical interviews through structured DSA practice.
  Target: **250+ important interview problems**
 
 ---
-
-##  Current Learning
-
-```text
-Data Structures & Algorithms
-        ↓
-Machine Learning
-        ↓
-Generative AI
-        ↓
-RAG Systems
-        ↓
-Agentic AI
-        ↓
-Production AI Systems
-```
 
 ---
 
