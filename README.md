@@ -1,23 +1,23 @@
-# Hi, I'm Parth Sharma 👋
+# Hi, I'm Parth Sharma 
 
-### AI/ML Engineer in Progress | GenAI • Agentic AI • Computer Vision • DSA
+### AI System Engineer in Progress | GenAI • Agentic AI • Computer Vision 
 
-🎓 Information Science & Engineering Student
-🚀 Building AI-powered systems and solving real-world problems with Machine Learning and Generative AI.
-
----
-
-## 👨‍💻 About Me
-
-* 🔭 Currently focused on **DSA, Generative AI, Agentic AI & Computer Vision**
-* 🧠 Interested in building **production-oriented AI systems**
-* 💡 Enjoy solving problems and turning ideas into working projects
-* 🏆 2× Hackathon Winner
-* 📚 Currently strengthening my **Data Structures & Algorithms** for technical interviews
+ Information Science & Engineering Student
+ Building AI-powered systems and solving real-world problems with Machine Learning and Generative AI.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+*  Currently focused on **Generative AI, Agentic AI & Computer Vision**
+*  Interested in building **production-oriented AI systems**
+*  Enjoy solving problems and turning ideas into working projects
+*  2× Hackathon Winner
+*  Currently strengthening my **Data Structures & Algorithms** for technical interviews
+
+---
+
+## Tech Stack
 
 ### Programming
 
@@ -41,29 +41,29 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project                  | Description                                                                                     |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
-| 🔐 **GuardianAI**        | AI-powered room security system using Computer Vision, face recognition and intrusion detection |
-| 🤖 **Research Copilot**  | GenAI-powered research assistant using LLMs, embeddings and RAG                                 |
-| 🧠 **Agentic AI System** | AI agent system designed to perform multi-step tasks using LLMs and tools                       |
-| 🎓 **ElectiSelect**      | Centralized elective allocation system built for college use                                    |
-| 📱 **Smart Storage AI**  | AI-assisted mobile storage management application                                               |
+|  **GuardianAI**        | AI-powered room security system using Computer Vision, face recognition and intrusion detection |
+|  **Research Copilot**  | GenAI-powered research assistant using LLMs, embeddings and RAG                                 |
+|  **Agentic AI System** | AI agent system designed to perform multi-step tasks using LLMs and tools                       |
+|  **ElectiSelect**      | Centralized elective allocation system built for college use                                    |
+|  **Smart Storage AI**  | AI-assisted mobile storage management application                                               |
 
 ---
 
-## 🧠 DSA Journey
+##  DSA Journey
 
 Currently preparing for technical interviews through structured DSA practice.
 
 **Focus:** Arrays → Strings → Hashing → Two Pointers → Sliding Window → Binary Search → Linked Lists → Trees → Graphs → DP
 
-📌 Target: **250+ important interview problems**
+ Target: **250+ important interview problems**
 
 ---
 
-## 📈 Current Learning
+##  Current Learning
 
 ```text
 Data Structures & Algorithms
@@ -81,15 +81,15 @@ Production AI Systems
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-* 🥇 Winner of **2 AI/ML Hackathons**
-* 🚀 Building multiple end-to-end AI/ML projects
-* 📚 Continuously improving DSA and AI engineering skills
+*  Winner of **2 AI/ML Hackathons**
+*  Building multiple end-to-end AI/ML projects
+*  Continuously improving DSA and AI engineering skills
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
 
